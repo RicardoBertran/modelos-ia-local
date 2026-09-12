@@ -1,6 +1,6 @@
 # Modelos de IA en local
 
-Guía en español de los modelos utilizados en el vídeo `0912.mp4`: qué usar para cada tarea, dónde descargarlo y cómo conectarlo a un chat o al editor.
+Guía en español de los modelos utilizados en el vídeo `¿Sin tokens? Estas 6 IA funcionan en tu PC`: qué usar para cada tarea, dónde descargarlo y cómo conectarlo a un chat o al editor.
 
 | Modelo | Uso mostrado | Variante identificada |
 |---|---|---|
