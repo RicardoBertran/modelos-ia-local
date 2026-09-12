@@ -1,0 +1,20 @@
+name: Modelos de IA en local
+version: 1.0.0
+schema: v1
+
+models:
+  - name: Qwen3.5 9B
+    provider: openai
+    model: qwen3.5-9b
+    apiBase: http://127.0.0.1:8080/v1
+    roles:
+      - chat
+      - edit
+      - apply
+
+  - name: Qwen2.5-Coder 1.5B Base
+    provider: ollama
+    model: qwen2.5-coder:1.5b-base
+    apiBase: http://localhost:11434
+    roles:
+      - autocomplete
